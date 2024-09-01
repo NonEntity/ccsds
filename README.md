@@ -155,4 +155,4 @@ A special mention goes to the people that took some of their time to contribute 
 - Mark Doyle (https://github.com/markjohndoyle) for the migration to Jakarta JAXB and the fix of a buggy test
 
 # Contributions
-No further updates (besides bug fixes) are planned to be performed.
+No further updates are planned to be performed.
