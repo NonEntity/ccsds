@@ -5,6 +5,7 @@ from .i_cfdp_transaction_indication import ICfdpTransactionIndication
 from .entity_disposed_indication import EntityDisposedIndication
 from .transaction_disposed_indication import TransactionDisposedIndication
 from .transaction_purged_indication import TransactionPurgedIndication
+from .fault_indication import FaultIndication
 
 __all__ = [
     "ICfdpIndication",
@@ -12,4 +13,5 @@ __all__ = [
     "EntityDisposedIndication",
     "TransactionDisposedIndication",
     "TransactionPurgedIndication",
+    "FaultIndication",
 ]
